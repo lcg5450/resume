@@ -45,13 +45,13 @@ Github : https://github.com/lcg5450
 
 
 ### R2 JumpingRace
-#### 사내 개발 케릭터 소개 앱 개발
+케쥬얼 러너 게임
 - 소속 : 인스모바일
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Objective-C, Cocos2d
 
 ### SuperHero R2
-#### 사내 개발 케릭터 소개 앱 개발
+사내 개발 케릭터 소개 앱 개발
 - 소속 : 인스모바일
 - 역할 : iOS 앱 개발
 - 사용기술 : iOS, Objective-C
