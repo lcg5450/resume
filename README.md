@@ -1,4 +1,4 @@
-# 이력서
+# 경력사항
 
 Facebook : https://www.facebook.com/changgwi.lee
 
