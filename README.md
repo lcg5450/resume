@@ -34,6 +34,8 @@ Github : https://github.com/lcg5450
 - 사용기술 : iOS, Objective-C, CoreData
 - AppStore (https://itunes.apple.com/kr/app/afreecatv-afurikatv-gao-hua/id845118646?mt=8)
 
+<img src="images/japanafreecatv_1.jpeg" width="160"/> <img src="images/japanafreecatv_2.jpeg" width="160"/> <img src="images/japanafreecatv_3.jpeg" width="160"/> <img src="images/japanafreecatv_4.jpeg" width="160"/>
+
 ### 아프리카TV v1.0
 - 소속 : 아프리카TV
 - 역할 : iOS 앱 개발 및 파트장 업무 수행
