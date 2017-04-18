@@ -1,7 +1,5 @@
 # 이력서
 
-Blog : 
-
 Facebook : https://www.facebook.com/changgwi.lee
 
 Github : https://github.com/lcg5450
@@ -27,6 +25,8 @@ Github : https://github.com/lcg5450
 - 사용기술 : iOS, Objective-C, CoreData, Realm, Extension, Fastlane, GPUImage, Swift
 - AppStore (https://itunes.apple.com/kr/app/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv-afreecatv-korean/id334185830?mt=8)
 
+<img src="images/afreecatv2_1.jpeg" width="160"/> <img src="images/afreecatv2_2.jpeg" width="160"/> <img src="images/afreecatv2_3.jpeg" width="160"/>
+
 ### 일본 아프리카TV
 - 소속 : 아프리카TV
 - 역할 : iOS 앱 개발
@@ -40,6 +40,7 @@ Github : https://github.com/lcg5450
 - 개발기간 : 2012-10-22 ~ 2014-07-31 (1년 9개월)
 - 사용기술 : iOS, Objective-C, CoreData
 - v2.0으로 리뉴얼 됨
+
 
 ### R2 JumpingRace
 #### 사내 개발 케릭터 소개 앱 개발
