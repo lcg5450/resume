@@ -59,7 +59,7 @@ Github : https://github.com/lcg5450
 
 ## 개인 프로젝트
 
-### 만드는중. 아직 없음.
+### To be continued
 
 
 
