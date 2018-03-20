@@ -6,8 +6,11 @@ Github : https://github.com/lcg5450
 
 ## 경력
 
+[Hyperconnect](https://www.hpcnt.com/)
+- 2017/06/26 ~ now
+
 [아프리카TV](http://www.afreecatv.com/)
-- 2012/10/22 ~ now
+- 2012/10/22 ~ 2017/06/09
 
 [인스모바일]
 - 2008/11/17 ~ 2012/09/21
@@ -17,6 +20,16 @@ Github : https://github.com/lcg5450
 
 
 ## 회사 프로젝트
+
+### Azar
+- 소속 : Hyperconnect
+- 역할 : iOS 앱 개발
+- 개발기간 : 2017-06-26 ~ now
+- 사용기술 : iOS, Sqlite, Fastlane, GPUImage, Swift
+- AppStore (https://itunes.apple.com/us/app/azar-video-chat-discover/id972558973?mt=8)
+
+<img src="images/azar_1.jpeg" width="160"/> <img src="images/azar_2.jpeg" width="160"/> <img src="images/azar_3.jpeg" width="160"/> <img src="images/azar_4.jpeg" width="160"/><img src="images/azar_5.jpeg" width="160"/>
+
 
 ### 아프리카TV v2.0
 - 소속 : 아프리카TV
