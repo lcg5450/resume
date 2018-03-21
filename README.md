@@ -34,7 +34,7 @@ Github : https://github.com/lcg5450
 ### 아프리카TV v2.0
 - 소속 : 아프리카TV
 - 역할 : iOS 앱 개발 및 파트장 업무 수행
-- 개발기간 : 2014-08-01 ~ now
+- 개발기간 : 2014-08-01 ~ 2017-06-09
 - 사용기술 : iOS, Objective-C, CoreData, Realm, Extension, Fastlane, GPUImage, Swift
 - AppStore (https://itunes.apple.com/kr/app/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv-afreecatv-korean/id334185830?mt=8)
 
