@@ -6,7 +6,6 @@
 - GitHub: https://github.com/lcg5450
 - [상세 경력기술서](career_2026_ko.md)
 - [이력서](resume_2026_ko.md)
-- [기존 경력 기록](career_legacy_ko.md)
 
 ## 소개
 
